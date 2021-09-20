@@ -9,7 +9,7 @@
 
 - 📧 Reach me at **benjamin.ciantar@hyperisland.se**. Find me on <a href="https://www.linkedin.com/in/benjamin-ciantar-22089b21b/">**LinkedIn**</a>.
 
-- 🎮 Interests include: **Video games, movies, sci-fi and fantasy books**... Geeky shit, you get the idea.
+- 🎮 Interests include: **Video games, movies, sci-fi and fantasy books, board games, DnD**... Geeky shit, you get the idea.
 
 
 
