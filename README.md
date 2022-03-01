@@ -5,7 +5,7 @@
 
 - 🌏 From **Sydney**🥵, living in **Stockholm**🥶.
 
-- 📚 Working on learning **Javascript, HTML5 and CSS3**.
+- 📚 Working on learning **Javascript, HTML5, CSS3 and React**.
 
 - 📧 Reach me at **benjamin.ciantar@hyperisland.se**. Find me on <a href="https://www.linkedin.com/in/benjamin-ciantar-22089b21b/">**LinkedIn**</a>.
 
