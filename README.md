@@ -1,11 +1,13 @@
 <h1 align="center">Hey, I'm Ben</h1>
 <h3 align="center">An aspiring ✨Front-End Developer✨ </h3>
 
-- 🤯 Currently studying Front-End Development at **Hyper Island**.
+- 💻 Working as a Front-End Developer at **Kambi Stockholm**.
+
+- 📖 Studied Front-End Development at **Hyper Island**.
 
 - 🌏 From **Sydney**🥵, living in **Stockholm**🥶.
 
-- 📚 Exploring **Javascript, HTML5, CSS3 and React**.
+- 📚 Currently exploring **Typescript**.
 
 - 📧 Reach me at **benjamin.ciantar@hyperisland.se**. Find me on <a href="https://www.linkedin.com/in/benjamin-ciantar-22089b21b/">**LinkedIn**</a>.
 
@@ -40,9 +42,4 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-</p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BenCiantar&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenCiantar&theme=react&layout=compact" />
 </p>
